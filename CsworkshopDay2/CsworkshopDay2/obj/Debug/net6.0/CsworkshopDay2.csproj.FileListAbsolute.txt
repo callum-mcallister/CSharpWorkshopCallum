@@ -1,0 +1,15 @@
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\bin\Debug\net6.0\CsworkshopDay2.exe
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\bin\Debug\net6.0\CsworkshopDay2.deps.json
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\bin\Debug\net6.0\CsworkshopDay2.runtimeconfig.json
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\bin\Debug\net6.0\CsworkshopDay2.dll
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\bin\Debug\net6.0\CsworkshopDay2.pdb
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.csproj.AssemblyReference.cache
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.AssemblyInfoInputs.cache
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.AssemblyInfo.cs
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.csproj.CoreCompileInputs.cache
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.dll
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\refint\CsworkshopDay2.dll
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.pdb
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\CsworkshopDay2.genruntimeconfig.cache
+C:\Users\22001180\Documents\OS Year-Task2(2023)\CSharpWorkshopCallum\CsworkshopDay2\CsworkshopDay2\obj\Debug\net6.0\ref\CsworkshopDay2.dll
