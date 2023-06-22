@@ -1,0 +1,15 @@
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\bin\Debug\net6.0\CSharpWorkshopDay4.exe
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\bin\Debug\net6.0\CSharpWorkshopDay4.deps.json
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\bin\Debug\net6.0\CSharpWorkshopDay4.runtimeconfig.json
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\bin\Debug\net6.0\CSharpWorkshopDay4.dll
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\bin\Debug\net6.0\CSharpWorkshopDay4.pdb
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.csproj.AssemblyReference.cache
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.AssemblyInfoInputs.cache
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.AssemblyInfo.cs
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.csproj.CoreCompileInputs.cache
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.dll
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\refint\CSharpWorkshopDay4.dll
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.pdb
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\CSharpWorkshopDay4.genruntimeconfig.cache
+C:\Users\22001180\Documents\GitHub\CSharpWorkshopCallum\CSharpWorkshopDay4\CSharpWorkshopDay4\obj\Debug\net6.0\ref\CSharpWorkshopDay4.dll
