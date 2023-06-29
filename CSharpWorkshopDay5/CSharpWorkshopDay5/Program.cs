@@ -47,6 +47,18 @@ KitWalker.StudyWeeksCompleted = 30;
 KitWalker.BuildDisplayStudentInformation();
 KitWalker.DisplayStudentInformation();
 
+Student Jay = new Student();
+Jay.NameOfStudent = "Jay";
+Jay.StudyHoursPerWeek = 5;
+Jay.StudyWeeksCompleted= 1;
+
+Student Ben = new Student();
+Ben.NameOfStudent = " Ben ";
+Ben.StudyHoursPerWeek = 7;
+Ben.StudyWeeksCompleted = 7;
+
+
+#region old code for estimating developer time
 //500 hours is the amount of time it takers to become a begginer developer 
 
 int TotalNumberOfHoursToBecomeDevelepor = 500;
@@ -63,3 +75,31 @@ int TotalNumberOfHoursToBecomeDevelepor = 500;
 // number of weeks already completed is 10 weeks
 // remaining 50 - 10 = 40 weeks
 // catwomen will be a developer in 40 weeks 
+
+//int numberOfWeeksBasedOnStudentWeeklyHoursCommiment = TotalNumberOfHoursToBecomeDevelepor / BruceWayne.StudyHoursPerWeek;
+//Console.WriteLine(numberOfWeeksBasedOnStudentWeeklyHoursCommiment);
+
+//int RemainingNumberOfWeeksToStudy = numberOfWeeksBasedOnStudentWeeklyHoursCommiment - BruceWayne.StudyWeeksCompleted;
+//Console.WriteLine(RemainingNumberOfWeeksToStudy);
+
+//string outputForBatmanStudent = $"student name  {BruceWayne.NameOfStudent} will need to study for  {RemainingNumberOfWeeksToStudy} weeks to become a beginner developer";
+//Console.WriteLine(outputForBatmanStudent);
+#endregion
+//here, I want to start using the Developer class
+
+Developer DeveloperTesting = new Developer();
+
+DeveloperTesting.CalculatorDeveloperEstimate(BruceWayne.StudyHoursPerWeek, BruceWayne.StudyWeeksCompleted, BruceWayne.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(SelinaKyle.StudyHoursPerWeek, SelinaKyle.StudyWeeksCompleted, SelinaKyle.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(KitWalker.StudyHoursPerWeek, KitWalker.StudyWeeksCompleted, KitWalker.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(Jay.StudyHoursPerWeek, Jay.StudyWeeksCompleted, Jay.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(Ben.StudyHoursPerWeek, Ben.StudyWeeksCompleted, Ben.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
